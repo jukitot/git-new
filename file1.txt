@@ -1,2 +1,3 @@
 add some new
 new information add to file
+12.06 add new string
